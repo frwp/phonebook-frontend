@@ -1,0 +1,20 @@
+{
+  "cwd": "/home/daddy/project/moonlay/react-project",
+  "type": [
+    "web",
+    "pwa"
+  ],
+  "name": "Phone Book",
+  "framework": "react",
+  "template": "tabs",
+  "bundler": "vite",
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": true
+  },
+  "customBuild": false
+}
